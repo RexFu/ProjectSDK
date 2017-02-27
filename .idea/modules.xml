@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProjectSDK.iml" filepath="$PROJECT_DIR$/ProjectSDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/startsdk/startsdk.iml" filepath="$PROJECT_DIR$/startsdk/startsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/td_frame/td_frame.iml" filepath="$PROJECT_DIR$/td_frame/td_frame.iml" />
     </modules>
   </component>
 </project>
